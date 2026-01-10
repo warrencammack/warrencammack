@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-🔭 I’m currently working on a platform leveraging AI to support better investment decisions <br>  
-🌱 I’m currently learning CrewAI and CI/CD automation  <br> 
+🔭 I’m currently working on a platform leveraging AI to support better investment decisions <br>
+🌱 I’m currently learning CrewAI and CI/CD automation  <br>
 👯 I’m looking to collaborate on engineering the investment decision platform <br> 
 🤔 I’m looking for help with langfuse <br> 
 💬 Ask me about AWS, Financial Services <br> 
