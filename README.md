@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+🔭 I’m currently working on a platform leveraging AI to support better investment decisions
+🌱 I’m currently learning CrewAI and CI/CD automation 
+👯 I’m looking to collaborate on engineering the investment decision platform
+🤔 I’m looking for help with langfuse
+💬 Ask me about AWS, Financial Services
+📫 How to reach me: linkedin.com/in/warrencammack
+
 <!--
 **warrencammack/warrencammack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
