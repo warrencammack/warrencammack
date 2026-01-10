@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🔭 I’m currently working on a platform leveraging AI to support better investment decisions
+🔭 I’m currently working on a platform leveraging AI to support better investment decisions <br>  
 🌱 I’m currently learning CrewAI and CI/CD automation 
 👯 I’m looking to collaborate on engineering the investment decision platform
 🤔 I’m looking for help with langfuse
