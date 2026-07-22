@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Warren Cammack — Head of AI Strategy & Programs at AWS ANZ, leading go-to-market for AWS Data & AI services (Amazon Bedrock, SageMaker, Amazon Q) across Australia and New Zealand.
+I'm Warren Cammack — Head of AI Strategy at Amazon Web Services, leading go-to-market for AWS Data & AI services (Amazon Bedrock, SageMaker, Amazon Q) across Australia and New Zealand.
 
 I'm also a Non-Executive Director at [RAMcap](https://ramcap.com.au), a Scout Leader, and an occasional builder of tools that make complex decisions easier.
 
